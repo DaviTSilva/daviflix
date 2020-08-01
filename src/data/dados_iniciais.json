@@ -1,101 +1,93 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Cortes Flow Podcast",
+      "link": "https://www.youtube.com/c/CortesdoFlow/",
+      "cor": "#5e0059",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal do Flow",
+        "url": "https://www.youtube.com/c/CortesdoFlow/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "CASTANHARI E FELIPE NETO",
+          "url": "https://www.youtube.com/watch?v=AFbh-4C18js"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "PASTORES HIPNOTICOS",
+          "url": "https://www.youtube.com/watch?v=Ypo2P0hhP-M"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "RELACIONAMENTO TOXICO",
+          "url": "https://www.youtube.com/watch?v=Qy1QXmJEKRA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "CULTURA DOS ANIMES",
+          "url": "https://www.youtube.com/watch?v=I0vqBTjOkHA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "DAY TRADE É CONFIÁVEL?",
+          "url": "https://www.youtube.com/watch?v=T5ArI88scK0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "YOUTUBE VS TV",
+          "url": "https://www.youtube.com/watch?v=HzKjCWKWQo4"
+        }  
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Gaveta",
+      "cor": "#9e0059",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Canal do Gaveta",
+        "url": "https://www.youtube.com/c/gaveta/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Pé na Porta, ADOBE NA CARA | LIVE Edita Comigo, Gaveta!",
+          "url": "https://www.youtube.com/watch?v=DmKv_ShgmXk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Roteiros & Publicidade pt 2: A novela dos recebidos | GAVETA",
+          "url": "https://www.youtube.com/watch?v=0RxrQFIA0-Q"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Roteiros & Publicidade pt 1: Eu NÃO sou um INFLUENCIADOR - | GAVETA",
+          "url": "https://www.youtube.com/watch?v=CdqagTmtpfY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Planos e dicas porradeiras | Gaveta",
+          "url": "https://www.youtube.com/watch?v=2DL98OsnAYs"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CABEÇORRA SUPERDOTADINHA e as animações mais BIZARRAS do YouTube | GAVETA",
+          "url": "https://www.youtube.com/watch?v=0cIIH_lYvQc"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Jovem Nerd",
+      "cor": "#6e0059",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal do Jovem Nerd",
+        "url": "https://www.youtube.com/user/JovemNerd"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "NerdTour: Álamo",
+          "url": "https://www.youtube.com/watch?v=E2otMGLoovU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Namorando na casa da ex | Sr. K Responde",
+          "url": "https://www.youtube.com/watch?v=1W_WlwPeIfM"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Watch Dogs: Legion - Time Melhor Idade",
+          "url": "https://www.youtube.com/watch?v=bB3akZJtUbA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Só 5 minutinhos de POWER",
+          "url": "https://www.youtube.com/watch?v=_uCTkGXnm3g"
         }
       ]
     },
