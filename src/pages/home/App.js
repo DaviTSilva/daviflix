@@ -1,8 +1,8 @@
 import React from 'react';
-import Menu from './components/Menu'
-import BannerMain from './components/BannerMain';
-import dadosIniciais from './data/dados_iniciais.json';
-import Carousel from './components/Carousel';
+import Menu from '../../components/Menu'
+import BannerMain from '../../components/BannerMain';
+import dadosIniciais from '../../data/dados_iniciais.json';
+import Carousel from '../../components/Carousel';
 
 
 function App() {
@@ -11,8 +11,8 @@ function App() {
       <Menu />
 
       <BannerMain 
-        videoTitle={dadosIniciais.categorias[2].videos[0].titulo}
-        url={dadosIniciais.categorias[2].videos[0].url}
+        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={"O que é Front-end? Trabalhando na área"}
       />
 
